@@ -8,15 +8,18 @@ This project was to code refactor the starter code for Horiseon website. The pur
 1. fixed broken code for *Search Engine Optimization* to function correctly on the webpage. 
 2. Divs were replaced with more relevant semantic HTML elements. 
 3. CSS file as well as HTML file had explanatory comments added. 
-4. CSS file was reorganized to be less redundant and be better to read. 
+4. CSS file was reorganized to be less redundant and be easier to read. 
 5. The footer on HTML was fixed as well.
 
 ## Screenshot of updated Website
 
+![Alt text](assets/images/finalscreenshot_horiseon.png)
+
 
 ## Links
 - Horiseon Updated Home Page
- file:///C:/Users/jocev/OneDrive/Desktop/horiseon/index.html 
+ https://jovaldez98.github.io/horiseon/
+
 
  ## Credits
  - Diarmuid Murphy (Instructor)
